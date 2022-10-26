@@ -5,6 +5,8 @@
 // @description Tool for automatically downloading all covers available for the release on VGMdb.net
 // @author Take-kun
 // @license GPL-3.0
+// @updateURL https://github.com/take-kun/vgmdb-covers-dl/raw/main/vgmdb-covers-dl.user.js
+// @downloadURL https://github.com/take-kun/vgmdb-covers-dl/raw/main/vgmdb-covers-dl.user.js
 // @match https://vgmdb.net/album/*
 // @connect media.vgm.io
 // @grant GM_xmlhttpRequest
