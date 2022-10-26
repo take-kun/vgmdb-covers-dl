@@ -4,7 +4,7 @@
 // @version 0.1.0
 // @description Tool for automatically downloading all covers available for the release on VGMdb.net
 // @author Take-kun
-// @license MIT
+// @license GPL-3.0
 // @match https://vgmdb.net/album/*
 // @connect media.vgm.io
 // @grant GM_xmlhttpRequest
